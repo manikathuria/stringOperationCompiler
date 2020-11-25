@@ -1,0 +1,4 @@
+print go||ld;
+print Tuesday?day;
+print enim<-;
+print (rats<-) || (fi||sh);
